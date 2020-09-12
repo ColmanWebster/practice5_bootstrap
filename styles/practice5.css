@@ -61,3 +61,19 @@ button{
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+a:default{
+    background-color: red;
+}
+
+a:active{
+    background-color: yellow;
+}
+
+a:hover{
+    background-color: green;
+}
+
+a:focus{
+    background-color: blue;
+}
