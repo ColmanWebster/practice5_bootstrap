@@ -29,8 +29,10 @@ button{
 #spacer1{
     border: 1px solid blue;
     height: 128px;
-    
+    text-align: center;
     clear: right;
+    padding: 0 0 0 0;
+    min-width: 400px;
 }
 
 .basic-grid {
@@ -41,14 +43,22 @@ button{
     text-align: center;
  }
 
+ .button{
+     margin: 0 3px 0 3px;
+ }
+
  .cont{
      width: 500px;
      height: 500px;
  }
 
+ .home{
+     margin: 0 0 0 18px;
+ }
+
 .nav{
     display: ;
-    margin: 0px 0 0 0;
+    margin: 0px 0px 0 0px;
 }
 
 #p1{
@@ -63,22 +73,22 @@ button{
     line-height: 50px;
 }
 
+#span1{
+    text-align: center;
+    font-size: 30px;
+}
+
+#title{
+    font-size: 30px;
+    padding: 0 0 0 0;
+    margin-right: 25%;
+}
+
+#subtitle{
+    font-size: 15px;
+    margin-right: 25%;
+}
+
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-a:default{
-    background-color: red;
-}
-
-a:active{
-    background-color: yellow;
-}
-
-a:hover{
-    background-color: green;
-}
-
-a:focus{
-    background-color: blue;
 }
