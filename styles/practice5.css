@@ -11,7 +11,7 @@ button{
 }
 
 #icon {
-    height: 150px;
+    height: 151px;
     margin: 0 10px 0 0;
     float: left;     
 }
@@ -21,7 +21,7 @@ button{
    border: 1px solid blue;
    text-align: center;
    width: 75%;
-   height: 19px;
+   height: 23px;
    min-width: 400px;
    padding: 0 1px 0 1px;
 }
@@ -45,6 +45,7 @@ button{
 
  .button{
      margin: 0 3px 0 3px;
+     height: 22px;
  }
 
  .cont{
