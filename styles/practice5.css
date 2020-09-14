@@ -10,6 +10,10 @@ button{
     text-decoration: none;
 }
 
+#cont{
+    height: 400px;
+}
+
 #icon {
     height: 151px;
     margin: 0 10px 0 0;
@@ -53,6 +57,10 @@ button{
      height: 500px;
  }
 
+ div img{
+     height: 250px;
+ }
+
  .home{
      margin: 0 0 0 18px;
  }
@@ -60,6 +68,10 @@ button{
 .nav{
     display: ;
     margin: 0px 0px 0 0px;
+}
+
+#img1{
+    height: 300px;
 }
 
 #p1{
