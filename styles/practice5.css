@@ -47,14 +47,19 @@ button{
     text-align: center;
  }
 
+
  .button{
      margin: 0 3px 0 3px;
      height: 22px;
  }
 
+ .carousel-item{
+     height: 200px;
+ }
+
  .cont{
-     width: 500px;
-     height: 500px;
+     width: 200px;
+     height: 200px;
  }
 
  div img{
